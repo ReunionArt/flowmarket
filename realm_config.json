@@ -1,7 +1,7 @@
 {
-    "app_id": "mag-mmvaf",
+    "app_id": "mag-pnzoz",
     "config_version": 20210101,
-    "name": "MAG",
+    "name": "Mag",
     "location": "US-VA",
     "provider_region": "aws-us-east-1",
     "deployment_model": "GLOBAL"
